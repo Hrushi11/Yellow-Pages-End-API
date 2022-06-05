@@ -1,0 +1,820 @@
+AdAmericas Animal Clinic
+Name: Americas Animal Clinic
+Phone number: (915) 308-0736
+Categories: ['Veterinarians', 'Veterinary Clinics & Hospitals', 'Veterinary Labs']
+Status: None
+Address: None
+Website: http://www.americasanimalclinic.com/
+More info: https://www.yellowpages.com/el-paso-tx/mip/americas-animal-clinic-470974075?lid=225988605
+-------------------------------------------------
+
+AdFar East Animal Care Center
+Name: Far East Animal Care Center
+Phone number: (915) 351-1910
+Categories: ['Veterinarians', 'Pet Services']
+Status: None
+Address: None
+Website: http://www.fareastanimalcarecenter.com/
+More info: https://www.yellowpages.com/nationwide/mip/far-east-animal-care-center-465489226?lid=191912700
+-------------------------------------------------
+
+1. Americas Animal Clinic
+Name: Americas Animal Clinic
+Phone number: (915) 308-0736
+Categories: ['Veterinarians', 'Pet Stores', 'Veterinary Clinics & Hospitals']
+Status: CLOSED NOW
+Address: 630 N Americas AveEl Paso, TX 79907
+Website: http://www.americasanimalclinic.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/americas-animal-clinic-470974075?lid=225988605
+-------------------------------------------------
+
+2. Allstar Animal Hospital
+Name: Allstar Animal Hospital
+Phone number: (915) 858-0877
+Categories: ['Veterinarians', 'Veterans Hospitals', 'Veterinarian Emergency Services']
+Status: CLOSED NOW
+Address: 8490 Alameda AveEl Paso, TX 79907
+Website: http://www.epvma.org
+More info: https://www.yellowpages.com/el-paso-tx/mip/allstar-animal-hospital-467771786?lid=1002004295922
+-------------------------------------------------
+
+3. Eastwood Animal Clinic
+Name: Eastwood Animal Clinic
+Phone number: (915) 593-0713
+Categories: ['Veterinarians', 'Veterinary Clinics & Hospitals']
+Status: CLOSED NOW
+Address: 9509 Montana AveEl Paso, TX 79925
+Website: http://www.animalclinicelpaso.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/eastwood-animal-clinic-21934902?lid=1001062641783
+-------------------------------------------------
+
+4. Desert East Animal Hospital PLLC
+Name: Desert East Animal Hospital PLLC
+Phone number: (915) 855-4100
+Categories: ['Veterinarians', 'Pet Services', 'Veterinarian Emergency Services']
+Status: CLOSED NOW
+Address: 11635 Pellicano DrEl Paso, TX 79936
+Website: http://www.deserteastanimalhospital.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/desert-east-animal-hospital-pllc-11770893?lid=1001868651136
+-------------------------------------------------
+
+5. El Paso Dog and Cat
+Name: El Paso Dog and Cat
+Phone number: (915) 533-9070
+Categories: ['Veterinarians', 'Pet Boarding & Kennels', 'Pet Services']
+Status: CLOSED NOW
+Address: 3233 N Mesa StEl Paso, TX 79902
+Website: https://elpasodogandcat.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/el-paso-dog-and-cat-549302584?lid=1002004617976
+-------------------------------------------------
+
+6. Sun Valley Animal Clinic
+Name: Sun Valley Animal Clinic
+Phone number: (915) 751-8817
+Categories: ['Veterinarians', 'Veterinary Clinics & Hospitals', 'Pet Specialty Services']
+Status: CLOSED NOW
+Address: 10050 Mccombs StEl Paso, TX 79924
+Website: http://sunvalleyanimalclinic.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/sun-valley-animal-clinic-2464766?lid=1000855222833
+-------------------------------------------------
+
+7. Northeast Veterinary Clinic
+Name: Northeast Veterinary Clinic
+Phone number: (915) 755-2231
+Categories: ['Veterinarians', 'Veterinary Clinics & Hospitals']
+Status: CLOSED NOW
+Address: 9405 Dyer StEl Paso, TX 79924
+Website: http://www.nevc.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/northeast-veterinary-clinic-6358456
+-------------------------------------------------
+
+8. Country Club Animal Clinic
+Name: Country Club Animal Clinic
+Phone number: (915) 833-0645
+Categories: ['Veterinarians', 'Veterinary Clinics & Hospitals', 'Veterinary Specialty Services']
+Status: CLOSED NOW
+Address: 5470 Doniphan Dr Ste A2El Paso, TX 79932
+Website: None
+More info: https://www.yellowpages.com/el-paso-tx/mip/country-club-animal-clinic-7278683
+-------------------------------------------------
+
+9. McCombs Veterinary Clinic
+Name: McCombs Veterinary Clinic
+Phone number: (915) 755-2357
+Categories: ['Veterinarians', 'Veterinary Clinics & Hospitals']
+Status: OPEN 24 Hours
+Address: 9204 McCombs StEl Paso, TX 79924
+Website: None
+More info: https://www.yellowpages.com/el-paso-tx/mip/mccombs-veterinary-clinic-10797791
+-------------------------------------------------
+
+10. Montana Animal Clinic
+Name: Montana Animal Clinic
+Phone number: (915) 778-9588
+Categories: ['Veterinarians', 'Veterinarian Emergency Services', 'Veterinary Clinics & Hospitals']
+Status: CLOSED NOW
+Address: 11237 Rojas DrEl Paso, TX 79935
+Website: http://www.montanaanimalclinic.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/montana-animal-clinic-14599407
+-------------------------------------------------
+
+11. The Spay Neuter Clinics of Texas
+Name: The Spay Neuter Clinics of Texas
+Phone number: (915) 307-3893
+Categories: ['Veterinarians', 'Animal Health Products']
+Status: CLOSED NOW
+Address: 1160 Airway Blvd Ste 1El Paso, TX 79925
+Website: http://www.thespayneuterclinicsoftexas.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/the-spay-neuter-clinics-of-texas-478296001
+-------------------------------------------------
+
+12. Mesa Veterinary Clinic
+Name: Mesa Veterinary Clinic
+Phone number: (915) 584-4491
+Categories: ['Veterinarians', 'Pet Services', 'Veterinary Clinics & Hospitals']
+Status: CLOSED NOW
+Address: 5355 N Mesa StEl Paso, TX 79912
+Website: http://www.paws-n-hoovesvetclinic.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/mesa-veterinary-clinic-486803139
+-------------------------------------------------
+
+13. Randy Shinaut DVM
+Name: Randy Shinaut DVM
+Phone number: (915) 592-5867
+Categories: ['Veterinarians']
+Status: None
+Address: 1426 Lomaland DrEl Paso, TX 79935
+Website: None
+More info: https://www.yellowpages.com/el-paso-tx/mip/randy-shinaut-dvm-537697717
+-------------------------------------------------
+
+14. Sun City Veterinary Center
+Name: Sun City Veterinary Center
+Phone number: (915) 760-8639
+Categories: ['Veterinarians', 'Veterinary Specialty Services', 'Veterinary Clinics & Hospitals']
+Status: CLOSED NOW
+Address: 7096 Westwind DrEl Paso, TX 79912
+Website: None
+More info: https://www.yellowpages.com/el-paso-tx/mip/sun-city-veterinary-center-505635673
+-------------------------------------------------
+
+15. Crossroads Animal Hospital
+Name: Crossroads Animal Hospital
+Phone number: (915) 584-3459
+Categories: ['Veterinarians', 'Veterinary Clinics & Hospitals']
+Status: CLOSED NOW
+Address: 4910 Crossroads DrEl Paso, TX 79922
+Website: http://www.xroadsvets.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/crossroads-animal-hospital-464670553
+-------------------------------------------------
+
+16. Paws N'Hooves Mobile Veterinary Service
+Name: Paws N'Hooves Mobile Veterinary Service
+Phone number: (915) 584-4491
+Categories: ['Veterinarians', 'Veterinary Clinics & Hospitals', 'Veterinary Specialty Services']
+Status: CLOSED NOW
+Address: 5355 N Mesa StEl Paso, TX 79912
+Website: http://www.paws-n-hoovesvetclinic.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/paws-nhooves-mobile-veterinary-service-482020593
+-------------------------------------------------
+
+17. Paws N' Hooves Veterinary Hospital
+Name: Paws N' Hooves Veterinary Hospital
+Phone number: (915) 584-4491
+Categories: ['Veterinarians', 'Pet Services']
+Status: CLOSED NOW
+Address: 3233 N Mesa St Ste 210El Paso, TX 79902
+Website: http://www.pnhvet.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/paws-n-hooves-veterinary-hospital-559962682
+-------------------------------------------------
+
+18. Paws N' Hooves Mobile Veterinary Services
+Name: Paws N' Hooves Mobile Veterinary Services
+Phone number: (915) 490-4849
+Categories: ['Veterinarians']
+Status: CLOSED NOW
+Address: 3233 N Mesa St Ste 208El Paso, TX 79902
+Website: http://www.pnhvet.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/paws-n-hooves-mobile-veterinary-services-562140358
+-------------------------------------------------
+
+19. Excel Physical Therapy
+Name: Excel Physical Therapy
+Phone number: (915) 760-8808
+Categories: ['Veterinarians']
+Status: CLOSED NOW
+Address: 3945 Doniphan Park Cir Ste AEl Paso, TX 79922
+Website: http://www.excelptandsports.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/excel-physical-therapy-506555015
+-------------------------------------------------
+
+20. El Paso Animal Urgent Care West
+Name: El Paso Animal Urgent Care West
+Phone number: (915) 301-0065
+Categories: ['Veterinarians']
+Status: None
+Address: 5500 N Desert Blvd Ste AEl Paso, TX 79912
+Website: https://www.elpasoanimalurgentcare.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/el-paso-animal-urgent-care-west-555670310
+-------------------------------------------------
+
+21. Eye Care for Animals - El Paso
+Name: Eye Care for Animals - El Paso
+Phone number: (915) 701-2660
+Categories: ['Veterinarians']
+Status: CLOSED NOW
+Address: 6000 Northern Pass Dr Bldg DEl Paso, TX 79911
+Website: http://www.eyecareforanimals.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/eye-care-for-animals-el-paso-559541681
+-------------------------------------------------
+
+22. Dog Cat & Bird Hospital
+Name: Dog Cat & Bird Hospital
+Phone number: (915) 533-9070
+Categories: ['Veterinarians', 'Veterinary Clinics & Hospitals']
+Status: None
+Address: 3233 N Mesa St Ste 210El Paso, TX 79902
+Website: http://www.epvma.org
+More info: https://www.yellowpages.com/el-paso-tx/mip/dog-cat-bird-hospital-550180271
+-------------------------------------------------
+
+23. Holy Family Pet Care PLLC
+Name: Holy Family Pet Care PLLC
+Phone number: (915) 532-7387
+Categories: ['Veterinarians', 'Veterinary Clinics & Hospitals', 'Veterinary Specialty Services']
+Status: CLOSED NOW
+Address: 4400 N Mesa St Ste 8El Paso, TX 79902
+Website: http://www.holyfamilypetcare.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/holy-family-pet-care-pllc-510961702
+-------------------------------------------------
+
+24. Montana Animal Clinic
+Name: Montana Animal Clinic
+Phone number: (915) 778-9588
+Categories: ['Veterinarians', 'Veterinary Clinics & Hospitals']
+Status: CLOSED NOW
+Address: 1015 Chelsea StEl Paso, TX 79903
+Website: http://montanaanimalclinic.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/montana-animal-clinic-485617526
+-------------------------------------------------
+
+25. El Paso Veterinary Medical Association Mobile
+Name: El Paso Veterinary Medical Association Mobile
+Phone number: (915) 490-4849
+Categories: ['Veterinarians']
+Status: CLOSED NOW
+Address: 5355 N Mesa StEl Paso, TX 79912
+Website: http://www.epvma.org
+More info: https://www.yellowpages.com/el-paso-tx/mip/el-paso-veterinary-medical-association-mobile-531801804
+-------------------------------------------------
+
+26. The Veterinary Care Center of Texas
+Name: The Veterinary Care Center of Texas
+Phone number: (915) 234-2670
+Categories: ['Veterinarians', 'Veterinary Specialty Services', 'Dog & Cat Furnishings & Supplies']
+Status: CLOSED NOW
+Address: 6596 Montana AveEl Paso, TX 79925
+Website: http://www.thespayneuterclinicsoftexas.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/the-veterinary-care-center-of-texas-547664803
+-------------------------------------------------
+
+27. El Paso Veterans Center
+Name: El Paso Veterans Center
+Phone number: (915) 772-0013
+Categories: ['Veterinarians']
+Status: CLOSED NOW
+Address: 1155 Westmoreland DrEl Paso, TX 79925
+Website: http://www.elpaso.va.gov
+More info: https://www.yellowpages.com/el-paso-tx/mip/el-paso-veterans-center-474273317
+-------------------------------------------------
+
+28. The El Paso Veterinary Medical Association
+Name: The El Paso Veterinary Medical Association
+Phone number: (915) 755-5653
+Categories: ['Veterinarians', 'Veterinary Clinics & Hospitals']
+Status: None
+Address: 4404 Edgar Park Ave Ste AEl Paso, TX 79904
+Website: http://www.epvma.org
+More info: https://www.yellowpages.com/el-paso-tx/mip/the-el-paso-veterinary-medical-association-505111499
+-------------------------------------------------
+
+29. The El Paso Veterinary Medical Association
+Name: The El Paso Veterinary Medical Association
+Phone number: (915) 591-9461
+Categories: ['Veterinarians', 'Veterinary Specialty Services', 'Veterinary Clinics & Hospitals']
+Status: None
+Address: 1291 Giles RdEl Paso, TX 79915
+Website: http://www.epvma.org
+More info: https://www.yellowpages.com/el-paso-tx/mip/the-el-paso-veterinary-medical-association-504335303
+-------------------------------------------------
+
+30. Sun City Veterinary Surgery
+Name: Sun City Veterinary Surgery
+Phone number: (915) 201-7121
+Categories: ['Veterinarians']
+Status: None
+Address: 7096 Westwind DrEl Paso, TX 79912
+Website: http://www.scvscelpaso.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/sun-city-veterinary-surgery-527658017
+-------------------------------------------------
+
+31. Eddie Wilson
+Name: Eddie Wilson
+Phone number: (915) 833-4883
+Categories: ['Veterinarians']
+Status: None
+Address: 710 Belvidere StEl Paso, TX 79912
+Website: None
+More info: https://www.yellowpages.com/el-paso-tx/mip/eddie-wilson-555842513
+-------------------------------------------------
+
+32. The El Paso Veterinary Medical Association
+Name: The El Paso Veterinary Medical Association
+Phone number: (915) 584-3459
+Categories: ['Veterinarians', 'Veterinary Clinics & Hospitals']
+Status: CLOSED NOW
+Address: 4910 Crossroads DrEl Paso, TX 79922
+Website: http://www.epvma.org
+More info: https://www.yellowpages.com/el-paso-tx/mip/the-el-paso-veterinary-medical-association-503197768
+-------------------------------------------------
+
+33. Nancy Harvey DVM
+Name: Nancy Harvey DVM
+Phone number: (915) 833-0645
+Categories: ['Veterinarians']
+Status: None
+Address: 5470 Doniphan DrEl Paso, TX 79932
+Website: None
+More info: https://www.yellowpages.com/el-paso-tx/mip/nancy-harvey-dvm-567117048
+-------------------------------------------------
+
+34. El Paso Veterinary Med Assn
+Name: El Paso Veterinary Med Assn
+Phone number: (915) 858-0778
+Categories: ['Veterinarians']
+Status: None
+Address: 8490 Alameda AveEl Paso, TX 79907
+Website: None
+More info: https://www.yellowpages.com/el-paso-tx/mip/el-paso-veterinary-med-assn-505109014
+-------------------------------------------------
+
+35. The El Paso Veterinary Medical Association
+Name: The El Paso Veterinary Medical Association
+Phone number: (915) 755-2231
+Categories: ['Veterinarians', 'Veterinarian Emergency Services', 'Veterinary Clinics & Hospitals']
+Status: CLOSED NOW
+Address: 9405 Dyer StEl Paso, TX 79924
+Website: http://www.nevc.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/the-el-paso-veterinary-medical-association-503193507
+-------------------------------------------------
+
+36. Nenni Katharine A.
+Name: Nenni Katharine A.
+Phone number: (915) 855-4100
+Categories: ['Veterinarians', 'Veterinary Clinics & Hospitals', 'Veterinary Specialty Services']
+Status: None
+Address: 9405 Dyer StEl Paso, TX 79924
+Website: None
+More info: https://www.yellowpages.com/el-paso-tx/mip/nenni-katharine-a-560207267
+-------------------------------------------------
+
+37. Humphreys, Jim DVM
+Name: Humphreys, Jim DVM
+Phone number: (575) 589-1818
+Categories: ['Veterinarians']
+Status: None
+Address: 900 Country Club RdEl Paso, TX 79932
+Website: http://elabrigadoanimalclinic.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/humphreys-jim-dvm-515539830
+-------------------------------------------------
+
+38. The El Paso Veterinary Medical Association
+Name: The El Paso Veterinary Medical Association
+Phone number: (915) 519-0246
+Categories: ['Veterinarians', 'Veterinary Specialty Services', 'Veterinary Clinics & Hospitals']
+Status: None
+Address: 1851 N Lee Trevino DrEl Paso, TX 79936
+Website: http://www.epvma.org
+More info: https://www.yellowpages.com/el-paso-tx/mip/the-el-paso-veterinary-medical-association-503193315
+-------------------------------------------------
+
+39. TLC Animal Hospital
+Name: TLC Animal Hospital
+Phone number: (915) 592-6200
+Categories: ['Veterinarians']
+Status: CLOSED NOW
+Address: 1851 N Lee Trevino DrEl Paso, TX 79936
+Website: https://www.tlcvetelpaso.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/tlc-animal-hospital-559730183
+-------------------------------------------------
+
+40. The El Paso Veterinary Medical Association
+Name: The El Paso Veterinary Medical Association
+Phone number: (915) 584-9471
+Categories: ['Veterinarians', 'Veterinary Specialty Services', 'Veterinary Clinics & Hospitals']
+Status: CLOSED NOW
+Address: 5820 Doniphan DrEl Paso, TX 79932
+Website: http://zargesanimalclinic.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/the-el-paso-veterinary-medical-association-505111457
+-------------------------------------------------
+
+41. Paws N'hooves
+Name: Paws N'hooves
+Phone number: (915) 490-4849
+Categories: ['Veterinarians']
+Status: CLOSED NOW
+Address: 5820 Doniphan DrEl Paso, TX 79932
+Website: https://www.paws-n-hoovesvetclinic.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/paws-nhooves-530622972
+-------------------------------------------------
+
+42. Rachael A Klein DVM
+Name: Rachael A Klein DVM
+Phone number: (915) 855-4100
+Categories: ['Veterinarians']
+Status: CLOSED NOW
+Address: 11635 Pellicano DrEl Paso, TX 79936
+Website: http://www.deserteastanimalhospital.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/rachael-a-klein-dvm-533149908
+-------------------------------------------------
+
+43. Christopher A Hopp DVM
+Name: Christopher A Hopp DVM
+Phone number: (915) 855-4100
+Categories: ['Veterinarians']
+Status: None
+Address: 11635 Pellicano DrEl Paso, TX 79936
+Website: None
+More info: https://www.yellowpages.com/el-paso-tx/mip/christopher-a-hopp-dvm-546452324
+-------------------------------------------------
+
+44. James L Gearhart DVM
+Name: James L Gearhart DVM
+Phone number: (915) 855-6966
+Categories: ['Veterinarians', 'Veterinary Clinics & Hospitals']
+Status: CLOSED NOW
+Address: 3140 Trawood DrEl Paso, TX 79936
+Website: None
+More info: https://www.yellowpages.com/el-paso-tx/mip/james-l-gearhart-dvm-523424503
+-------------------------------------------------
+
+45. Koym, Larry M
+Name: Koym, Larry M
+Phone number: (915) 858-1971
+Categories: ['Veterinarians']
+Status: None
+Address: 630 N Americas AveEl Paso, TX 79907
+Website: http://epvma.org
+More info: https://www.yellowpages.com/el-paso-tx/mip/koym-larry-m-459410717
+-------------------------------------------------
+
+46. Heath, Wiley C
+Name: Heath, Wiley C
+Phone number: (915) 858-1971
+Categories: ['Veterinarians']
+Status: None
+Address: 630 N Americas AveEl Paso, TX 79907
+Website: http://americasanimalclinic.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/heath-wiley-c-481687538
+-------------------------------------------------
+
+47. DVM Lawyers
+Name: DVM Lawyers
+Phone number: (915) 243-4333
+Categories: ['Veterinarians']
+Status: None
+Address: 6831 Gato RdEl Paso, TX 79932
+Website: None
+More info: https://www.yellowpages.com/el-paso-tx/mip/dvm-lawyers-539002580
+-------------------------------------------------
+
+48. Mobile Pet Vet
+Name: Mobile Pet Vet
+Phone number: (915) 407-5314
+Categories: ['Veterinarians']
+Status: CLOSED NOW
+Address: 3910 Square Dance RdEl Paso, TX 79938
+Website: https://www.mobilepetvetep.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/mobile-pet-vet-460068234
+-------------------------------------------------
+
+49. CORONADO ANIMAL CLINIC
+Name: CORONADO ANIMAL CLINIC
+Phone number: (915) 585-8147
+Categories: ['Veterinarians']
+Status: CLOSED NOW
+Address: 6328 N Mesa StEl Paso, TX 79912
+Website: http://www.coronadovets.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/coronado-animal-clinic-8032478
+-------------------------------------------------
+
+50. Banfield Pet Hospital
+Name: Banfield Pet Hospital
+Phone number: (915) 849-9700
+Categories: ['Veterinarians', 'Veterinary Clinics & Hospitals', 'Pet Services']
+Status: None
+Address: 1836 Joe Battle BlvdEl Paso, TX 79936
+Website: http://www.banfield.com/veterinarians/tx/el-paso/epo?utm_source=yext&utm_medium=yext&utm_campaign=yext&cid=yext_local
+More info: https://www.yellowpages.com/el-paso-tx/mip/banfield-pet-hospital-474719288
+-------------------------------------------------
+
+51. Robert Morrison DVM
+Name: Robert Morrison DVM
+Phone number: (915) 755-2231
+Categories: ['Veterinarians']
+Status: None
+Address: 9405 Dyer StEl Paso, TX 79924
+Website: None
+More info: https://www.yellowpages.com/el-paso-tx/mip/robert-morrison-dvm-2556832
+-------------------------------------------------
+
+52. Vista Hills Animal Hospital
+Name: Vista Hills Animal Hospital
+Phone number: (915) 592-5867
+Categories: ['Veterinarians', 'Veterinary Clinics & Hospitals', 'Pet Services']
+Status: CLOSED NOW
+Address: 1426 Lomaland DrEl Paso, TX 79935
+Website: http://www.epvma.org
+More info: https://www.yellowpages.com/el-paso-tx/mip/vista-hills-animal-hospital-18728317
+-------------------------------------------------
+
+53. Equine Veterinary Service
+Name: Equine Veterinary Service
+Phone number: (915) 449-5784
+Categories: ['Veterinarians']
+Status: None
+Address: 8001 N Mesa StEl Paso, TX 79932
+Website: http://epvma.org
+More info: https://www.yellowpages.com/el-paso-tx/mip/equine-veterinary-service-459150876
+-------------------------------------------------
+
+54. Johnsen Animal Hospital
+Name: Johnsen Animal Hospital
+Phone number: (915) 592-6200
+Categories: ['Veterinarians', 'Veterinary Clinics & Hospitals']
+Status: CLOSED NOW
+Address: 1851 N Lee Trevino DrEl Paso, TX 79936
+Website: http://www.johnsenanimalhospital.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/johnsen-animal-hospital-7621894
+-------------------------------------------------
+
+55. Professional Animal Wellness Service
+Name: Professional Animal Wellness Service
+Phone number: (915) 592-7297
+Categories: ['Veterinarians', 'Veterinary Clinics & Hospitals']
+Status: None
+Address: 550 N Yarbrough DrEl Paso, TX 79915
+Website: None
+More info: https://www.yellowpages.com/el-paso-tx/mip/professional-animal-wellness-service-7890777
+-------------------------------------------------
+
+56. Foothills Animal Clinic
+Name: Foothills Animal Clinic
+Phone number: (915) 833-4883
+Categories: ['Veterinarians', 'Veterinary Clinics & Hospitals']
+Status: CLOSED NOW
+Address: 710 Belvidere StEl Paso, TX 79912
+Website: http://foothillsanimalclinicelpaso.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/foothills-animal-clinic-5868512
+-------------------------------------------------
+
+57. Zarges Animal Clinic
+Name: Zarges Animal Clinic
+Phone number: (915) 584-9471
+Categories: ['Veterinarians', 'Veterinary Clinics & Hospitals']
+Status: CLOSED NOW
+Address: 5820 Doniphan DrEl Paso, TX 79932
+Website: http://epvma.org
+More info: https://www.yellowpages.com/el-paso-tx/mip/zarges-animal-clinic-5032174
+-------------------------------------------------
+
+58. El Paso Veterinary Hospital
+Name: El Paso Veterinary Hospital
+Phone number: (915) 566-7387
+Categories: ['Veterinarians', 'Veterinary Clinics & Hospitals', 'Veterinary Specialty Services']
+Status: CLOSED NOW
+Address: 4101 Montana AveEl Paso, TX 79903
+Website: http://www.epvma.org
+More info: https://www.yellowpages.com/el-paso-tx/mip/el-paso-veterinary-hospital-276844
+-------------------------------------------------
+
+59. Orlando Garza Jr DVM
+Name: Orlando Garza Jr DVM
+Phone number: (915) 593-1712
+Categories: ['Veterinarians']
+Status: CLOSED NOW
+Address: 3370 Wedgewood DrEl Paso, TX 79925
+Website: http://eastelpasoanimalhospital.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/orlando-garza-jr-dvm-17395134
+-------------------------------------------------
+
+60. Freund, Roger
+Name: Freund, Roger
+Phone number: (915) 585-8147
+Categories: ['Veterinarians']
+Status: CLOSED NOW
+Address: 6328 N Mesa StEl Paso, TX 79912
+Website: http://www.coronadovets.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/freund-roger-12286702
+-------------------------------------------------
+
+61. Ysleta Veterinary Clinic
+Name: Ysleta Veterinary Clinic
+Phone number: (915) 858-1059
+Categories: ['Veterinarians', 'Veterinary Clinics & Hospitals']
+Status: CLOSED NOW
+Address: 1251 N Zaragoza RdEl Paso, TX 79907
+Website: http://www.epvma.org
+More info: https://www.yellowpages.com/el-paso-tx/mip/ysleta-veterinary-clinic-17680221
+-------------------------------------------------
+
+62. Robert B Corbett DVM
+Name: Robert B Corbett DVM
+Phone number: (915) 595-2833
+Categories: ['Veterinarians']
+Status: None
+Address: 11205 Rojas DrEl Paso, TX 79935
+Website: None
+More info: https://www.yellowpages.com/el-paso-tx/mip/robert-b-corbett-dvm-11806464
+-------------------------------------------------
+
+63. Harwood Veterinary Clinic
+Name: Harwood Veterinary Clinic
+Phone number: (915) 755-5653
+Categories: ['Veterinarians', 'Veterinary Information & Referral Services', 'Veterinary Clinics & Hospitals']
+Status: CLOSED NOW
+Address: 4404 Edgar Park AveEl Paso, TX 79904
+Website: http://harwoodveterinaryclinic.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/harwood-veterinary-clinic-29839401
+-------------------------------------------------
+
+64. Southwest Animal Care Complex
+Name: Southwest Animal Care Complex
+Phone number: (575) 589-4417
+Categories: ['Veterinarians']
+Status: CLOSED NOW
+Address: 1111 Country Club RdEl Paso, TX 79932
+Website: http://epvma.org
+More info: https://www.yellowpages.com/el-paso-tx/mip/southwest-animal-care-complex-21936634
+-------------------------------------------------
+
+65. Alvaro Medina DVM
+Name: Alvaro Medina DVM
+Phone number: (915) 407-5314
+Categories: ['Veterinarians']
+Status: None
+Address: 2053 Sun Chariot DrEl Paso, TX 79938
+Website: None
+More info: https://www.yellowpages.com/el-paso-tx/mip/alvaro-medina-dvm-17872223
+-------------------------------------------------
+
+66. Banfield Pet Hospital
+Name: Banfield Pet Hospital
+Phone number: (915) 832-0700
+Categories: ['Veterinarians', 'Veterinary Clinics & Hospitals', 'Pet Services']
+Status: None
+Address: 655 Sunland Park DrEl Paso, TX 79912
+Website: http://www.banfield.com/veterinarians/tx/el-paso/elp?utm_source=yext&utm_medium=yext&utm_campaign=yext&cid=yext_local
+More info: https://www.yellowpages.com/el-paso-tx/mip/banfield-pet-hospital-474719311
+-------------------------------------------------
+
+67. McRae Animal Hospital
+Name: McRae Animal Hospital
+Phone number: (915) 591-9461
+Categories: ['Veterinarians', 'Veterinary Clinics & Hospitals', 'Veterinary Specialty Services']
+Status: CLOSED NOW
+Address: 1292 Giles RdEl Paso, TX 79915
+Website: http://mcraeanimalhospital.weebly.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/mcrae-animal-hospital-455580926
+-------------------------------------------------
+
+68. East El Paso Animal Hospital
+Name: East El Paso Animal Hospital
+Phone number: (915) 593-1712
+Categories: ['Veterinarians', 'Veterinary Clinics & Hospitals', 'Pet Services']
+Status: CLOSED NOW
+Address: 3370 Wedgewood DrEl Paso, TX 79925
+Website: http://www.localvets.com/p/citygrid2/east-el-paso-animal-hospital-el-paso-texas.html
+More info: https://www.yellowpages.com/el-paso-tx/mip/east-el-paso-animal-hospital-5450443
+-------------------------------------------------
+
+69. El Paso Veterinary Medical Association
+Name: El Paso Veterinary Medical Association
+Phone number: (575) 589-1818
+Categories: ['Veterinarians', 'Veterinarian Emergency Services', 'Veterinary Clinics & Hospitals']
+Status: CLOSED NOW
+Address: 900 Country Club RdEl Paso, TX 79932
+Website: http://www.epvma.org
+More info: https://www.yellowpages.com/el-paso-tx/mip/el-paso-veterinary-medical-association-14385216
+-------------------------------------------------
+
+70. El Paso Animal Emergency & Veterinary Specialty Center
+Name: El Paso Animal Emergency & Veterinary Specialty Center
+Phone number: (915) 545-1148
+Categories: ['Veterinarians', 'Pet Services', 'Veterinary Clinics & Hospitals']
+Status: CLOSED NOW
+Address: 1220 Airway BlvdEl Paso, TX 79925
+Website: https://www.epanimalemergency.com
+More info: https://www.yellowpages.com/el-paso-tx/mip/el-paso-animal-emergency-veterinary-specialty-center-364185
+-------------------------------------------------
+
+71. Pet Shop The
+Name: Pet Shop The
+Phone number: (915) 565-9591
+Categories: ['Veterinarians', 'Pet Grooming', 'Pet Services']
+Status: CLOSED NOW
+Address: 4663 Montana AveEl Paso, TX 79903
+Website: None
+More info: https://www.yellowpages.com/el-paso-tx/mip/pet-shop-the-17484022
+-------------------------------------------------
+
+72. Adobe Animal Hospital
+Name: Adobe Animal Hospital
+Phone number: (915) 855-6966
+Categories: ['Veterinarians', 'Pet Services', 'Pet Stores']
+Status: CLOSED NOW
+Address: 3140 Trawood DrEl Paso, TX 79936
+Website: None
+More info: https://www.yellowpages.com/el-paso-tx/mip/adobe-animal-hospital-2700155
+-------------------------------------------------
+
+73. Far East Animal Care Center
+Name: Far East Animal Care Center
+Phone number: (915) 351-1910
+Categories: ['Veterinarians', 'Pet Services']
+Status: OPEN 24 Hours
+Address: None
+Website: http://www.fareastanimalcarecenter.com
+More info: https://www.yellowpages.com/nationwide/mip/far-east-animal-care-center-465489226?lid=191912700
+-------------------------------------------------
+
+74. Dvmneedles
+Name: Dvmneedles
+Phone number: (915) 276-8597
+Categories: ['Veterinarians']
+Status: None
+Address: None
+Website: http://dvmneedles.com
+More info: https://www.yellowpages.com/nationwide/mip/dvmneedles-19700982
+-------------------------------------------------
+
+75. Southwest Animal Care Complex
+Name: Southwest Animal Care Complex
+Phone number: (575) 589-2233
+Categories: ['Veterinarians', 'Dog & Cat Grooming & Supplies', 'Pet Boarding & Kennels']
+Status: CLOSED NOW
+Address: 1111 Country Club RdSanta Teresa, NM 88008
+Website: http://swanimalcare.com
+More info: https://www.yellowpages.com/santa-teresa-nm/mip/southwest-animal-care-complex-12946304
+-------------------------------------------------
+
+76. John S McKee Jr DVM
+Name: John S McKee Jr DVM
+Phone number: (575) 589-4417
+Categories: ['Veterinarians', 'Veterinary Clinics & Hospitals']
+Status: CLOSED NOW
+Address: 1111 Country Club RdSanta Teresa, NM 88008
+Website: http://www.swanimalcare.com
+More info: https://www.yellowpages.com/santa-teresa-nm/mip/john-s-mckee-jr-dvm-15266737
+-------------------------------------------------
+
+77. John McKee Jr DVM
+Name: John McKee Jr DVM
+Phone number: (575) 589-4417
+Categories: ['Veterinarians', 'Veterinary Clinics & Hospitals', 'Pet Grooming']
+Status: CLOSED NOW
+Address: PO Box 88Santa Teresa, NM 88008
+Website: None
+More info: https://www.yellowpages.com/santa-teresa-nm/mip/john-mckee-jr-dvm-475029768
+-------------------------------------------------
+
+78. Horizon Animal Hospital
+Name: Horizon Animal Hospital
+Phone number: (915) 858-2352
+Categories: ['Veterinarians', 'Veterinary Clinics & Hospitals', 'Pet Services']
+Status: CLOSED NOW
+Address: 752 Horizon BlvdSocorro, TX 79927
+Website: http://www.epvma.org
+More info: https://www.yellowpages.com/socorro-tx/mip/horizon-animal-hospital-12206139
+-------------------------------------------------
+
+79. St Francis Veterinary Clinic
+Name: St Francis Veterinary Clinic
+Phone number: (915) 851-9400
+Categories: ['Veterinarians', 'Veterinary Clinics & Hospitals']
+Status: None
+Address: 12717 Socorro RdSan Elizario, TX 79849
+Website: https://www.facebook.com/pages/st-francis-veterinary-clinic/161933953836263
+More info: https://www.yellowpages.com/san-elizario-tx/mip/st-francis-veterinary-clinic-8770649
+-------------------------------------------------
+
+80. Equipos Veterinarios Miami/All  Veterinary Supply Inc
+Name: Equipos Veterinarios Miami/All  Veterinary Supply Inc
+Phone number: (305) 599-6125
+Categories: ['Veterinarians', 'Horse Equipment & Services', 'Livestock Equipment & Supplies']
+Status: CLOSED NOW
+Address: None
+Website: http://www.allvetsupply.com
+More info: https://www.yellowpages.com/doral-fl/mip/equipos-veterinarios-miami-all-veterinary-supply-inc-544971856?lid=1001883244293
+-------------------------------------------------
+
