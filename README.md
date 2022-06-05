@@ -18,4 +18,19 @@ The following images show with code how to get the data from this api. A live te
 
 ![IMG](https://github.com/Hrushi11/Yellow-Pages-End-API/blob/main/assets/without_plier_code.png?raw=true)
 
+```
+import requests
+from yellow_pages_api import YpApi
+
+# using the api with plier
+api = YpApi()
+search_term = "dentist"
+geo_location_term = "texas"
+plier = 3
+# get the json request
+url = f"https://hrushis-yellow-pages-end-api.herokuapp.com/{search_term}/{geo_location_term}/{plier}"
+json_req = requests.get(url).json()
+print(json_req)
+```
+
 ![IMG](https://github.com/Hrushi11/Yellow-Pages-End-API/blob/main/assets/plier_code.png?raw=true)
