@@ -179,7 +179,7 @@ class YpApi:
         self.geo_location_terms = geo_location_term
         self.now = self.name_gen(self.search_terms, self.geo_location_terms) + f"_{plier}"
 
-        with open(f"Yellow-pages/{self.now}.json", "w") as f:
+        with open(f"Yellow-pages/{self.now}.txt", "w") as f:
             for plier_rank in range(1, plier + 1):
                 self.extractor_path_multi = self.gen_extractor_link(self.search_terms,
                                                                     self.geo_location_terms,
