@@ -18,19 +18,49 @@ The following images show with code how to get the data from this api. A live te
 
 ![IMG](https://github.com/Hrushi11/Yellow-Pages-End-API/blob/main/assets/without_plier_code.png?raw=true)
 
-```
-import requests
-from yellow_pages_api import YpApi
-
-# using the api with plier
-api = YpApi()
-search_term = "dentist"
-geo_location_term = "texas"
-plier = 3
-# get the json request
-url = f"https://hrushis-yellow-pages-end-api.herokuapp.com/{search_term}/{geo_location_term}/{plier}"
-json_req = requests.get(url).json()
-print(json_req)
-```
-
 ![IMG](https://github.com/Hrushi11/Yellow-Pages-End-API/blob/main/assets/plier_code.png?raw=true)
+
+## API Data
+
+First 2 samples from this route: `http://hrushis-yellow-pages-end-api.herokuapp.com/repair/texas/5` are shown here. <br>
+The key contains the number and the value contains the actual data in a nested dictionary. The keys in the dictionary and there values are well explained below.
+
+`Address`: The address of the entity included in the call. <br>
+`Categories`: To what types of other services the entity is in. <br>
+`More-info` : To get more information about the entity on the yellow pages website <br>
+`Name`: Name of the entity. <br>
+`Phone-number`: Telephone number for contacting the entity. <br>
+`Status`: Opened or Closed status of the entity. <br>
+`Website`: Own website of the enitity. <br>
+
+`null`: Data for that key was not available. <br>
+
+```
+{
+  "1": {
+    "Address": null,
+    "Categories": [
+      "Auto Repair & Service",
+      "Tire Dealers"
+    ],
+    "More-info": "https://www.yellowpages.com/nationwide/mip/firestone-complete-auto-care-497692017?lid=1001662607171",
+    "Name": "Firestone Complete Auto Care",
+    "Phone-number": "(800) 364-4314",
+    "Status": null,
+    "Website": "http://www.firestonecompleteautocare.com/repair/services.jsp?lw_cmp=IYP_YPC_NPLL_Service"
+  },
+  "2": {
+    "Address": null,
+    "Categories": [
+      "Auto Repair & Service",
+      "Automobile Salvage",
+      "Automobile & Truck Brokers"
+    ],
+    "More-info": "https://www.yellowpages.com/nationwide/mip/1-800-car-buyers-481040864?lid=1000123041450",
+    "Name": "1 800 Car Buyers",
+    "Phone-number": "(888) 495-3593",
+    "Status": null,
+    "Website": "http://www.800carbuyers.com/?st-t=yp-carbuyer"
+  }
+}
+```
