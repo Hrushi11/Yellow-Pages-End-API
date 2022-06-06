@@ -3,9 +3,15 @@
 This repository contains the code for completely scraping the yellow pages website to get the details of all the categories from all the cities in America and 
 then turning all of the data into an api to be used later. The api data is well visualized here as example [here](https://github.com/Hrushi11/Yellow-Pages-End-API/tree/main/Yellow-pages).
 
-Test the API at: [API Testing](https://hrushis-yellow-pages-end-api.herokuapp.com/)
+Test the API at: [API Testing](https://hrushis-yellow-pages-end-api.herokuapp.com/) <br>
+Example route at: http://hrushis-yellow-pages-end-api.herokuapp.com/dentists/las-vegas/2
 
 ![GIF](https://github.com/Hrushi11/Yellow-Pages-End-API/blob/main/assets/api-testing.gif?raw=true)
+
+```
+http://hrushis-yellow-pages-end-api.herokuapp.com/<search-term>/<us-city>
+http://hrushis-yellow-pages-end-api.herokuapp.com/<search-term>/<us-city>/<plier>
+```
 
 ## Using the API
 
