@@ -10,7 +10,8 @@ def hello():
 @app.route('/api', methods = ['POST', 'GET'])
 def api():
     if request.method == 'GET':
-        return f"The URL /api is accessed directly. Try going to route to submit form"
+        # return f"The URL /api is accessed directly. Try going to route to submit form"
+        return render_template("error.html")    
     if request.method == 'POST':
         api = YpApi()
         form_data = request.form
